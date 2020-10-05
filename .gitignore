@@ -3,3 +3,7 @@
 /Data
 /Explore-old.ipynb
 /logs.log
+catboost_info/learn_error.tsv
+catboost_info/time_left.tsv
+Models/catboost_sales_prediction_model.pkl
+catboost_info/learn/events.out.tfevents
